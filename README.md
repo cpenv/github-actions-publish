@@ -1,5 +1,5 @@
-# cpenv Publish Action
-A Github action for publishing your cpenv modules.
+# cpenv Publish Module
+A Github Action for publishing your cpenv modules.
 
 # Usage
 See [action](action.yml) for more details.
